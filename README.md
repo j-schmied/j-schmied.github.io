@@ -1,2 +1,5 @@
 # j-schmied.github.io
-GitHub Page
+
+### Welcome to my Page!
+
+This page is under construction. You may come back later. 
